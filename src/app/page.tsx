@@ -120,7 +120,7 @@ export default function LandingPage() {
           tag="Our Success"
           tagIcon={TrendingUp}
           tagAnimation="slide-up"
-          textboxLayout="centered"
+          textboxLayout="default"
           useInvertedBackground={false}
           animationType="scale-rotate"
           metrics={[
